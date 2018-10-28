@@ -1,4 +1,4 @@
-#Give - Donation Plugin and Fundraising Platform
+# Give - Donation Plugin and Fundraising Platform
 Contributors: givewp, dlocc, webdevmattcrom, ravinderk, kevinwhoffman, mehul0810
 Donate link: https://givewp.com/
 Tags: donation, donations, donation plugin, wordpress donation plugin, givewp, give, wp donation, ecommerce, e-commerce, fundraising, fundraiser, crowdfunding, wordpress donations, commerce, wordpress ecommerce, giving, charity, donate, gifts, non-profit, paypal, stripe, churches, nonprofit, paypal donations, paypal donate, stripe donations, stripe donate, authorize.net, authorize.net donations
@@ -120,11 +120,11 @@ Here's a few ways you can contribute to Give:
 
 * Join the [WordPress for Nonprofits Facebook group](https://www.facebook.com/groups/wp4nonprofits/). We chat about all things related to WordPress and nonprofits there and very often about Give and online donations in general.
 
-=#Upgrade Notice ==
+# Upgrade Notice 
 
 Give version 1.8 is a major update. Please make sure you make a backup of your database before updating.
 
-=#Installation ==
+# Installation 
 
 #Minimum Requirements =
 
@@ -149,7 +149,7 @@ The manual installation method involves downloading our donation plugin and uplo
 
 Automatic updates should work like a charm; as always though, ensure you backup your site just in case.
 
-=#Frequently Asked Questions ==
+# Frequently Asked Questions 
 
 #Where can I learn more about how to use Give?
 
@@ -185,7 +185,7 @@ On top of that, customizing the plugin's terminology is a daunting task. You nev
 
 Use Give for donations, and let WooCommerce or WP eCommerce or the like handle your products. They work alongside each other just fine. Your donors will be happy, your customers will be happy, and so will you.
 
-=#Screenshots ==
+# Screenshots 
 
 1. This is an example of a simple, yet powerful, donation form that allows the user to input a custom amount.
 
@@ -209,7 +209,7 @@ Use Give for donations, and let WooCommerce or WP eCommerce or the like handle y
 
 11. Give has a dedicated support team to help answer any questions you may have and help you through stumbling blocks.
 
-=#Changelog ==
+# Changelog 
 
 #2.3.0: October 24th, 2018 =
 * New: This release includes an upgrade routine to move comments from WordPress core tables to our own custom tables. This was done to resolve conflicts with various plugins incorrectly flagging Give's comments as spam. [Developer's Post - Custom Comment Tables](https://developers.givewp.com/2018/10/08/give-2-3-0-custom-comment-tables/), [#3627](https://github.com/impress-org/Give/issues/3627), [#3589](https://github.com/impress-org/Give/issues/3589), [#3604](https://github.com/impress-org/Give/issues/3604), [#3588](https://github.com/impress-org/Give/issues/3588)
