@@ -11,6 +11,10 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Accept donations and begin fundraising with Give, the highest rated WordPress donation plugin for online giving.
 
+
+=== Notice ===
+This version of give this with unofficial customizations, adds the Iugu payment gateway [Iugu](https://iugu.com/)
+
 == Description ==
 
 **[Give](http://bit.ly/WPORGGive "Visit the Give website")** is the highest rated, most downloaded, and best supported donation plugin for WordPress. Built from the ground up for all your fundraising needs, Give provides you with a powerful donation platform optimized for online giving.
