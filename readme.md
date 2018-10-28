@@ -56,7 +56,7 @@ Find out more:
 
 With more than 40,000+ active installs of Give, we hear more and more success stories from nonprofit organizations using Give. Causes are using Give to raise millions of dollars per year. Check out some of our [Give Stories](http://bit.ly/WPORGGiveStories) and [Case Studies](http://bit.ly/WPORGGiveCaseStudies) for details about their success.
 
-#Why Use Give for Donations?
+# Why Use Give for Donations?
 
 If your nonprofit or cause depends on donations, you want to treat your donors right. Don't send them through a shopping cart or kick them off-site to a third-party platform. Give streamlines the giving process by allowing your donors to complete their donations directly on your website using an easy to complete donation form. As an admin, you have the customization options and reporting and donor management features you need in order to run successful giving campaigns.
 
@@ -487,7 +487,7 @@ Use Give for donations, and let WooCommerce or WP eCommerce or the like handle y
 
 [See full changelog here >>](https://plugins.svn.wordpress.org/give/trunk/changelog.txt)
 
-##Upgrade Notice
+## Upgrade Notice
 
 #2.1.3
 This version contains a database cleanup routine to delete donation payment meta that is not attached to any payment. For instance, if you deleted a payment the metadata associated with it still remained prior to this version. With this upgrade the orphaned data will be removed.
