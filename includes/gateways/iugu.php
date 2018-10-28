@@ -81,10 +81,6 @@ function give_iugu_send_payment($payment_data){
   $test_enabled = give_get_option('iugu_test_enabled', 'Iugu' );
   $email    = give_get_option('iugu_account_email', 'Iugu' );
 
-  if(!$user_token || !$test_token){
-    
-  }
-  
   if ($test_enabled == 'on') {
     Iugu::setApiKey($test_token); 
   } else {
